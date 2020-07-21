@@ -51,6 +51,7 @@ section {
   font-size: 1.3rem;
   font-weight: 700;
   padding: 5px;
+  margin-top: 20px;
 }
 
 .bottom-left-box h2 {
@@ -98,6 +99,7 @@ span {
   font-size: 1.3rem;
   font-weight: 700;
   padding: 5px;
+  margin-top: 20px;
 }
 
 /* footer */
